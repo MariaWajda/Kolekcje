@@ -19,6 +19,7 @@ public class StreamTest {
 //            System.out.println("Imie nie istnieje");
 //        }
 
+        //kolejny update
 
         System.out.println("Witaj w akademikodu");
         while (true) {
