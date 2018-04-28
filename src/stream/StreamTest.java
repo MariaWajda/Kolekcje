@@ -12,6 +12,7 @@ public class StreamTest {
         Optional<String> stringOptional = Optional.ofNullable(name);
 
         System.out.println("Zmodyfikowaneeeeee");
+        System.out.println("Druga modyfikacja oł je");
 
 //        if(stringOptional.ifPresent()){
 //            System.out.println(stringOptional.get());
