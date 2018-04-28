@@ -21,7 +21,8 @@ public class StreamTest {
 //        }
 
         //kolejny update
-
+        //kolejny update
+        System.out.println("tajny commitg");
         System.out.println("Witaj w akademikodu");
         while (true) {
             System.out.println("AKADEMIA JEST NAJLEPSZA!");
