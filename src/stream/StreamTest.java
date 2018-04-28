@@ -17,5 +17,11 @@ public class StreamTest {
 //        } else {
 //            System.out.println("Imie nie istnieje");
 //        }
+
+
+        System.out.println("Witaj w akademikodu");
+        while (true) {
+            System.out.println("AKADEMIA JEST NAJLEPSZA!");
+        }
     }
 }
