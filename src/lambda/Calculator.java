@@ -9,6 +9,8 @@ public class Calculator {
         IntegerMath addition = (a, b) -> a + b;
         IntegerMath substraction = (a, b) -> a - b;
 
+
+
         System.out.println(calculator.operateBinary(5, 6, (a, b) -> a + b ));
         System.out.println(calculator.operateBinary(5, 10, (a, b) -> a - b ));
     }
