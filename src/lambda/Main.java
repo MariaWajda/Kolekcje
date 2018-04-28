@@ -27,6 +27,8 @@ public class Main {
         showMe(text -> text.substring(2, 5), "absztyfikant");
         showMore(s -> s.substring(0, 4), "Chlibka");
 
+        System.out.println("What the heck");
+
     }
     public static void showMore (Function <String , String> function, String name){
         System.out.println(function.apply(name));
