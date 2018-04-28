@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600268e4-2503-41b2-8f68-062fb2a92da5" name="Default" comment="" />
+    <list default="true" id="600268e4-2503-41b2-8f68-062fb2a92da5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/SomeTestGitClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/SomeTestGitClass.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StreamTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stream/StreamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,10 +49,35 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SomeTestGitClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lambda/SomeTestGitClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -64,6 +92,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/lambda/Calculator.java" />
         <option value="$PROJECT_DIR$/src/stream/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/lambda/SomeTestGitClass.java" />
       </list>
     </option>
   </component>
@@ -231,7 +260,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524925949874</updated>
-      <workItem from="1524925953400" duration="1066000" />
+      <workItem from="1524925953400" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="Some upgrades">
       <created>1524926390413</created>
@@ -240,11 +269,25 @@
       <option name="project" value="LOCAL" />
       <updated>1524926390413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some upgrades">
+      <created>1524927058956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524927058956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some new class">
+      <created>1524927574182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524927574182</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1066000" />
+    <option name="totallyTimeSpent" value="2441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1921" height="1040" extended-state="0" />
@@ -261,7 +304,7 @@
       <window_info anchor="right" id="UML Diagrams" type="SLIDING" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299435" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986567" />
@@ -289,7 +332,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some upgrades" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some upgrades" />
+    <MESSAGE value="Some new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some new class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lambda/Calculator.java">
@@ -312,10 +356,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stream/StreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="315">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/SomeTestGitClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
